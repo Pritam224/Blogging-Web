@@ -1,0 +1,21 @@
+.App {
+  
+  background-color:  #282c34;
+  color: white;
+  min-height: 100vh;
+  padding: 30px;
+
+}
+
+
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+.hrclass{
+  background-color: rgb(161, 161, 168);
+  height: 1px;
+}
